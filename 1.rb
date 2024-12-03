@@ -1020,5 +1020,5 @@ INPUT = <<~EOF
 98899   19172
 EOF
 
-solve(TEST_INPUT)
-solve(INPUT)
+solve TEST_INPUT
+solve INPUT

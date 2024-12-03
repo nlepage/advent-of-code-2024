@@ -1022,6 +1022,6 @@ INPUT = <<~EOF
 15 16 19 20 23 26 27
 EOF
 
-solve(TEST_INPUT)
+solve TEST_INPUT
 
-solve(INPUT)
+solve INPUT
